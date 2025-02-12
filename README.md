@@ -1,5 +1,13 @@
 # Device tree for Xiaomi 14 Pro
 
+> [!WARNING]
+> **NOT** WORKING
+> - FOD (Screen-off udfps only, can only work with AOD)
+> - Reverse charging
+> - Abnormal battery consumption
+> 
+> Maybe more
+
 Xiaomi 14 Pro (codenamed _"shennong"_) is a high-end smartphone from Xiaomi.
 
 It was announced & released in October 2023.
