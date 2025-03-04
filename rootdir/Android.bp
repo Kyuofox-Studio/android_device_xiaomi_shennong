@@ -43,3 +43,10 @@ prebuilt_etc_xml {
     sub_dir: "appcompat",
     product_specific: true,
 }
+
+prebuilt_etc {
+    name: "hals.conf",
+    src: "etc/hals.conf",
+    sub_dir: "sensors",
+    vendor: true,
+}
